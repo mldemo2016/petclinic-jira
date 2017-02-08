@@ -1,9 +1,1 @@
-This is a Medline file.  Enjoy!
-
-Changing the file, 'cause hey.
-
-Changing the file again, 'cause hey hey.
-
-Yeah, it's me again.
-
-This one might close it out, if I remember a commit comment.
+I'm feeling destructive.
